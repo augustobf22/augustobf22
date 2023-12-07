@@ -19,4 +19,4 @@
 
 ### Coding time:
 
-<img src="https://github.com/augustobf22/augustobf22/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
+<img src="https://github.com/augustobf22/augustobf22/blob/main/images/codeStats.svg" alt="My Coding Activity"/>
