@@ -18,4 +18,3 @@
 |<img align="center" alt="GitHub" heigth="30px"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />|<img align="center" alt="Terminal" heigth="30px"  src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />|<img align="center" alt="linux" heigth="30px"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />|<img align="center" alt="Visual Studio Code" heigth="30px" margin="10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />|<img align="center" alt="trello" heigth="30px"  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />|
 
 ### <!--START_SECTION:waka-->Coding time: <!--END_SECTION:waka-->
-<!--START_SECTION:waka-->Coding time: <!--END_SECTION:waka-->
