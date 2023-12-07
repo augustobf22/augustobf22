@@ -19,4 +19,4 @@
 
 ### Coding time:
 
-<img src="https://github.com/augustobf22/augustobf22/blob/main/images/codeStats.svg" alt="My Coding Activity"/>
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
